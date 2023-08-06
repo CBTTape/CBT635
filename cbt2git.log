@@ -1,0 +1,5 @@
+2023-08-06 06:10:30.396231 - Initialized conversion of CBT635
+2023-08-06 06:10:30.419551 - Received CBT.V505.FILE635.PDS from FILE635.XMI 
+2023-08-06 06:10:30.421778 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE635.PDS, moved to PDS/$$$#DATE
+2023-08-06 06:10:30.422785 - Found @FILE635.txt (text/plain) in CBT.V505.FILE635.PDS, moved to PDS/@FILE635
+2023-08-06 06:10:30.423714 - Found RENAMEF.rexx (text/plain) in CBT.V505.FILE635.PDS, moved to PDS/RENAMEF
